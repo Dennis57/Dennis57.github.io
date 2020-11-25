@@ -7281,7 +7281,7 @@ h3 {
   .masthead .masthead-subheading {
     font-size: 1.25rem; }
   .masthead .masthead-avatar {
-    width: 15rem; }
+    width: 17rem; }
 
 @media (min-width: 992px) {
   .masthead {
@@ -7383,7 +7383,11 @@ form .row:first-child .floating-label-form-group {
   background-color: #1a252f; }
 
 #brandImage {
-  height: 2rem; }
+  height: 3rem; }
+
+#branddesc {
+  font-size: 18px!important;
+}
 
 .portfolio {
   padding-top: 6rem;
