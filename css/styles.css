@@ -397,6 +397,16 @@ mark,
   display: none;
 }
 
+.certificates {
+  text-align: center;
+  margin: 10px auto !important;
+}
+
+.certificates img{
+  width: 45%;
+  height: auto;;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
